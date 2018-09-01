@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: rightClick
-Version: auto
+Version: 2.8.a
 Description: rightClick deactivates the context menu on websized pictures and more. 
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=401
 Author: VDigital
